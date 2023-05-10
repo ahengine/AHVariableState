@@ -1,5 +1,4 @@
-# UHTTPClient
- This is a http request helper with JWT suppurt for using in unity projects
+# AH Variable State
+ This is a minimal state manager for unity
  
- 
- Based on UnityWebRequest
+
